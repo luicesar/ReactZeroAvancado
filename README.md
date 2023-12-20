@@ -1,3 +1,4 @@
 # ReactZeroAvancado
 Udemy - Aprenda React JS na pratica a criar aplicações completas do extremo ZERO ao avançado!
-<a>https://www.udemy.com/course/curso-reactjs/</a>
+<br />
+<a href="https://www.udemy.com/course/curso-reactjs" target="_blank">Curso Reactjs</a>
