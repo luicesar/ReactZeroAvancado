@@ -1,2 +1,3 @@
 react-app-firebase/src/firebaseConnection.js
 react-app-firebase-login/src/firebaseConnection.js
+react-sistema-chamados/src/services/firebaseConnection.js
